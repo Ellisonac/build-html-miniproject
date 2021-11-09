@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(82, 82, 82) !important;
+  color: white;
+}
+
+.card {
+  background-color: rgb(78, 104, 129);
+  box-shadow: 5px 5px 10px whitesmoke;
+}
